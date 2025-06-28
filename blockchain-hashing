@@ -1,0 +1,66 @@
+# 🔐 Blockchain Hashing Demo
+
+This is a beginner-friendly Python notebook that introduces blockchain fundamentals by demonstrating how hashing works using the `sha3_256` algorithm from Python's `hashlib` library.
+
+Created by **Sadhu Prem**
+
+---
+
+## 📌 Overview
+
+This project covers:
+
+- What is a Blockchain?
+- What are Blocks and Hashes?
+- How hashes are generated from different inputs
+- Case-sensitivity of hash outputs
+- Comparison of hash sizes
+- Demonstration using Python and Google Colab
+
+---
+
+## 📂 Project Structure
+
+| File | Description |
+|------|-------------|
+| `Blockchain Project dem.ipynb` | Main Jupyter notebook with full demonstration and markdown explanation. |
+
+---
+
+## 🔍 Topics Covered
+
+- 💡 Definition of Blockchain
+- 🧱 Structure of a Block
+- 🔑 Hashing Concept
+- 🔁 Case Sensitivity in Hashing
+- 📏 Fixed Length of Hash Output
+- 🧪 Real-time Code Demonstrations in Python
+
+---
+
+## 🔧 Technologies Used
+
+- Python 3
+- Google Colab (recommended environment)
+- `hashlib` for hashing operations
+
+---
+
+## ⚠️ Disclaimer
+
+This is an educational project aimed at helping beginners understand core blockchain concepts. Not intended for production use.
+
+---
+
+## 📧 Contact
+
+For full project code or collaboration:
+
+📩 Mail: sadhublockchain.dev@gmail.com
+👨‍💻 Maintainer: **Sadhu Prem**
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
